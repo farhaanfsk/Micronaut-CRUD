@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.fsk.micronaut.crud
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [ annotation-api, app-name, data, data-jpa, gradle, hibernate-jpa, http-client, java, java-application, jax-rs, jdbc-hikari, junit, logback, lombok, micronaut-build, netty-server, readme, shade, sqlserver, testcontainers, yaml ]
